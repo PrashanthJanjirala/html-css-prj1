@@ -1,0 +1,208 @@
+
+#div1 div{
+  display: flex;  
+  justify-content: space-evenly;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(236, 159, 18);
+}
+#div1 p{
+    font-size: 23px;
+    color: whitesmoke;
+    margin: auto;
+    font-weight: bold;
+}
+#div1 a{
+    margin: 0px 200px;
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: none;
+}
+#cart{
+     margin-top: 9px;
+}
+#div2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px 150px;
+    color: rgb(236, 159, 18);
+    background-image: url(./images/bac.webp);
+}
+#div2 div{
+    margin-top: 8px;
+}
+#div2 input{
+    height: 25px;
+    background-color: rgb(212, 204, 204);
+    color: whitesmoke;
+}
+#a1{
+   margin-top: 15px;
+   text-decoration: none;
+   color: rgb(236, 159, 18);
+}
+#div2 a:hover{
+    font-size: 15px;
+    color: orange;
+}
+#div3{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(63, 61, 61, 0.936);
+    
+}
+#div3 div{
+    /* padding-top: 10px; */
+    display: flex;
+    justify-content: space-around;
+}
+#div3 a{
+    color: rgb(236, 159, 18);
+    text-decoration: none;
+}
+#div3 span{
+    padding: 11px;
+}
+#div3 span:hover{
+  background-color: rgb(251, 251, 251);  
+}
+#div4{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 100px;
+    height: 150px;
+    background-image: url(./images/bac.webp);
+}
+#div4 img{
+    border-radius: 50%;
+    height: 90px;
+    width: 80px;
+}
+#div4 figcaption{
+    position: relative;
+    top: 100px;
+    right: 70px;
+    text-align: center;
+    color: white;
+}
+#div5{
+    width: 100%;
+    height: auto;
+    background-image: url(./images/bac.webp);
+}
+#div5 img{
+    margin-left: 300px;
+    height: 500px;
+    width: 900px;
+    border-radius: 20px;
+}
+#div6{
+    display: flex;
+    justify-content: center;
+    padding: 10px 250px;
+    background-image: url(./images/bac.webp);
+}
+#div6 img{
+    padding: 5px;
+    border-radius: 20px;
+}
+#div7{
+    width: 100%;
+    height: 470px;
+    display: flex;
+    justify-content: center;
+    background-image: url(./images/bac.webp);
+}
+#div7 img{
+    width: 280px;
+    border-bottom-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    padding: 10px;
+}
+#div7 h1{
+    font-size: 150px;
+    position: relative;
+    bottom: 450px;
+    left: 75px;
+    color: whitesmoke;
+}
+#div7 p{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    bottom: 580px;
+    left: 75px;
+    color: whitesmoke;
+}
+#div8{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background-image: url(./images/bac.webp);
+}
+#div8 img{
+    width: 280px;
+    border-top-right-radius: 150px;
+    border-top-left-radius: 150px;
+    padding: 10px;
+    position: relative;
+   
+}
+#div8 h1{
+    font-size: 150px;
+    position: relative;
+    bottom: 450px;
+    left: 75px;
+    color: whitesmoke;
+}
+#div8 p{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    bottom: 580px;
+    left: 85px;
+    color: whitesmoke;
+}
+#div9{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: orange;
+    padding:0px 200px ;
+}
+#div9 a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+#div9 h3{
+    font-size: 30px;
+    color: whitesmoke;
+}
+address{
+    text-align: center;
+    background-color: orange;
+    padding-bottom: 50px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+#div10{
+    height: 50px;
+    width: 200px;
+    background-color: orange;
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 45px;
+    padding-top: 20px;
+ }
+#div10 a{
+    font-size: 25px;
+    color: whitesmoke;
+    text-decoration: none;
+    padding-top: 2px; 
+    text-align: center;
+} 
+
